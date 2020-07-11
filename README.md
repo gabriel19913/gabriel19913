@@ -1,9 +1,8 @@
 ## Hi there, welcome to my GitHub profile 👋
 
-<img src="https://imgur.com/Sf5zaQC" width="400">
+<img src="https://i.imgur.com/Sf5zaQC.jpg" width="400">
 
 ### Best programming languages:
-<img  align="right" src="python_logo.png" width="150">
 
 - [x] Python :snake:
 - [ ] Other  :thumbsdown:
