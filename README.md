@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/Sf5zaQC.jpg" width="400">
 
 ### Best programming languages:
+<img  align="right" src="https://i.imgur.com/r13TPRJ.png" width="150">
 
 - [x] Python :snake:
 - [ ] Other  :thumbsdown:
