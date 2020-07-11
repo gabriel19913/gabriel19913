@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub profile 👋
 
-<img src="meme4.jpg" width="400">
+<img src="https://imgur.com/Sf5zaQC" width="400">
 
 ### Best programming languages:
 <img  align="right" src="python_logo.png" width="150">
