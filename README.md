@@ -1,4 +1,4 @@
-## Hi there, welcome to my GitHub profile 👋
+## Gabriel Fonseca's profile 👋
 
 ## Some information about me:
 - :man: I am a mechatronics engineer that turned into a data scientist and who loves leveraging data-driven solutions that make an impact on business and society!
