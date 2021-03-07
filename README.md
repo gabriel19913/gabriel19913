@@ -59,4 +59,4 @@
 <img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel19913&show_icons=true&hide_border=true" />
 
 
-<img src="https://i.imgur.com/Sf5zaQC.jpg" width="400">
+<img src="https://i.imgur.com/Sf5zaQC.jpg" width="400" style="float:right">
