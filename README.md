@@ -56,7 +56,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 <img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel19913&show_icons=true&hide_border=true" />
 
 
