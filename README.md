@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/gabrielfonseca91/" target="_blank"><img align="left" alt="gabrielfonseca91 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/gabrielfonseca91/" target="_blank" rel="noopener noreferrer"><img align="left" alt="gabrielfonseca91 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
 
 [<img align="left" alt="gabriel1991 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@gabriel1991)
 
