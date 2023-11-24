@@ -21,8 +21,6 @@
 
 [<img align="left" alt="gabrielfonseca1991 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/gabrielfonseca1991/)
 
-[<img align="left" alt="gabriel1991 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />](https://twitter.com/gabriel1991)
-
 <br />
 
 ### Languages and Tools:
